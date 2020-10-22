@@ -1,2 +1,2 @@
-# hello-world
-i am a web developer
+#hello-world
+I am a full stack web developer
